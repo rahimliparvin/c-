@@ -1,0 +1,34 @@
+C:\Users\elshad\Desktop\Mini Layihe\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\elshad\Desktop\Mini Layihe\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\elshad\Desktop\Mini Layihe\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\elshad\Desktop\Mini Layihe\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elshad\Desktop\Mini Layihe\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\elshad\Desktop\Mini Layihe\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\elshad\Desktop\Mini Layihe\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\elshad\Desktop\Mini Layihe\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\elshad\Desktop\Mini Layihe\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\elshad\Desktop\Mini Layihe\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\elshad\Desktop\Mini Layihe\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Domain\obj\Debug\net6.0\Domain.sourcelink.json
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Domain\obj\Debug\net6.0\ref\Domain.dll

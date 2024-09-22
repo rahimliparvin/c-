@@ -1,0 +1,196 @@
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\obj\Debug\net6.0\Mini Layihe.csproj.AssemblyReference.cache
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\obj\Debug\net6.0\Mini Layihe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\obj\Debug\net6.0\Mini Layihe.AssemblyInfoInputs.cache
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\obj\Debug\net6.0\Mini Layihe.AssemblyInfo.cs
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\obj\Debug\net6.0\Mini Layihe.csproj.CoreCompileInputs.cache
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Mini Layihe.exe
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Mini Layihe.deps.json
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Mini Layihe.runtimeconfig.json
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Mini Layihe.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Mini Layihe.pdb
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Domain.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Repository.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Service.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Service.pdb
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Domain.pdb
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Repository.pdb
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\obj\Debug\net6.0\Mini Layihe.csproj.CopyComplete
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\obj\Debug\net6.0\Mini Layihe.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\obj\Debug\net6.0\refint\Mini Layihe.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\obj\Debug\net6.0\Mini Layihe.pdb
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\obj\Debug\net6.0\Mini Layihe.genruntimeconfig.cache
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\obj\Debug\net6.0\ref\Mini Layihe.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Humanizer.dll
+C:\Users\elshad\Desktop\Mini Layihe\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.csproj.AssemblyReference.cache
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.AssemblyInfoInputs.cache
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.AssemblyInfo.cs
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.csproj.CoreCompileInputs.cache
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\refint\Mini Layihe.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.pdb
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Mini Layihe.exe
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Mini Layihe.deps.json
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Mini Layihe.runtimeconfig.json
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Mini Layihe.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Mini Layihe.pdb
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Humanizer.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Domain.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Repository.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Service.dll
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Service.pdb
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Domain.pdb
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Repository.pdb
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.csproj.CopyComplete
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.genruntimeconfig.cache
+C:\Users\elshad\Desktop\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\ref\Mini Layihe.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Mini Layihe.exe
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Mini Layihe.deps.json
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Mini Layihe.runtimeconfig.json
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Mini Layihe.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Mini Layihe.pdb
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Repository.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Service.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Service.pdb
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\bin\Debug\net6.0\Repository.pdb
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.AssemblyInfo.cs
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.sourcelink.json
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.csproj.CopyComplete
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\refint\Mini Layihe.dll
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.pdb
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\Mini Layihe.genruntimeconfig.cache
+C:\Users\user\Desktop\NewC\C---Sql---Mini-project\Mini Layihe\obj\Debug\net6.0\ref\Mini Layihe.dll
